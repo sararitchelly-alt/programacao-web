@@ -1,4 +1,3 @@
-
 # Minha primeira página Web
 
 **Nome:** Sara Richelli
