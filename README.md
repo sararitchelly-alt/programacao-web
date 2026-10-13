@@ -16,4 +16,4 @@ Esta é minha primeira página desenvolvida na disciplina Programação Web, do 
 
 A imagem abaixo mostra minha página aberta no navegador e a alteração realizada nas ferramentas DevTools.
 
-![Página Web com propriedade alterada nas DevTools](captura-devtools.png)
+![Página Web com propriedade alterada nas DevTools](captura-devtools.png.jpeg)
